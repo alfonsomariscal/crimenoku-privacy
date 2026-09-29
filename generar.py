@@ -159,8 +159,8 @@ SOPORTE = {
 cuanto puedo.</p>
 <h2>Preguntas frecuentes</h2>
 <h3>¿Qué es gratis?</h3>
-<p>Los dos primeros capítulos (16 casos) y el caso del día de los lunes. El Club de Detectives
-desbloquea el caso de cada día, el archivo de días anteriores y los siete capítulos.</p>
+<p>Los dos primeros capítulos (16 casos) y los tres casos del día de los lunes. El Club de Detectives
+desbloquea los casos de cada día, el archivo de días anteriores y los siete capítulos.</p>
 <h3>¿Cómo cancelo la suscripción?</h3>
 <p>En el iPhone: <em>Ajustes → tu nombre → Suscripciones → Crimenoku</em>. Si cancelas durante la
 prueba gratuita de 7 días, no se cobra nada.</p>
@@ -182,7 +182,7 @@ cambiar en el menú.</p>"""),
 soon as I can.</p>
 <h2>FAQ</h2>
 <h3>What's free?</h3>
-<p>The first two chapters (16 cases) and the Monday daily case. The Detective Club unlocks every
+<p>The first two chapters (16 cases) and the three Monday daily cases. The Detective Club unlocks every
 daily case, the archive of past days and all seven chapters.</p>
 <h3>How do I cancel the subscription?</h3>
 <p>On your iPhone: <em>Settings → your name → Subscriptions → Crimenoku</em>. If you cancel during
@@ -205,8 +205,8 @@ you can change it in the menu.</p>"""),
 antworte, so schnell ich kann.</p>
 <h2>Häufige Fragen</h2>
 <h3>Was ist kostenlos?</h3>
-<p>Die ersten zwei Kapitel (16 Fälle) und der Fall des Tages am Montag. Der Detektivclub schaltet
-jeden Fall des Tages, das Archiv vergangener Tage und alle sieben Kapitel frei.</p>
+<p>Die ersten zwei Kapitel (16 Fälle) und die drei Fälle des Tages am Montag. Der Detektivclub schaltet
+alle Fälle des Tages, das Archiv vergangener Tage und alle sieben Kapitel frei.</p>
 <h3>Wie kündige ich das Abo?</h3>
 <p>Auf dem iPhone: <em>Einstellungen → dein Name → Abonnements → Crimenoku</em>. Kündigst du während
 der 7-tägigen Gratisphase, wird nichts berechnet.</p>
@@ -229,8 +229,8 @@ des Telefons; im Menü kannst du sie ändern.</p>"""),
 réponds dès que possible.</p>
 <h2>Questions fréquentes</h2>
 <h3>Qu'est-ce qui est gratuit ?</h3>
-<p>Les deux premiers chapitres (16 affaires) et l'affaire du jour du lundi. Le Club des Détectives
-débloque l'affaire de chaque jour, les archives des jours passés et les sept chapitres.</p>
+<p>Les deux premiers chapitres (16 affaires) et les trois affaires du jour du lundi. Le Club des Détectives
+débloque les affaires de chaque jour, les archives des jours passés et les sept chapitres.</p>
 <h3>Comment résilier l'abonnement ?</h3>
 <p>Sur l'iPhone : <em>Réglages → votre nom → Abonnements → Crimenoku</em>. Si vous résiliez pendant
 l'essai gratuit de 7 jours, rien n'est facturé.</p>
@@ -253,8 +253,8 @@ se change dans le menu.</p>"""),
 Rispondo appena posso.</p>
 <h2>Domande frequenti</h2>
 <h3>Cosa è gratis?</h3>
-<p>I primi due capitoli (16 casi) e il caso del giorno del lunedì. Il Club dei Detective sblocca il
-caso di ogni giorno, l'archivio dei giorni passati e tutti e sette i capitoli.</p>
+<p>I primi due capitoli (16 casi) e i tre casi del giorno del lunedì. Il Club dei Detective sblocca i
+casi di ogni giorno, l'archivio dei giorni passati e tutti e sette i capitoli.</p>
 <h3>Come disdico l'abbonamento?</h3>
 <p>Sull'iPhone: <em>Impostazioni → il tuo nome → Abbonamenti → Crimenoku</em>. Se disdici durante la
 prova gratuita di 7 giorni, non paghi nulla.</p>
@@ -276,8 +276,8 @@ può cambiare dal menu.</p>"""),
 assim que der.</p>
 <h2>Perguntas frequentes</h2>
 <h3>O que é grátis?</h3>
-<p>Os dois primeiros capítulos (16 casos) e o caso do dia das segundas-feiras. O Clube dos
-Detetives libera o caso de todos os dias, o arquivo dos dias anteriores e os sete capítulos.</p>
+<p>Os dois primeiros capítulos (16 casos) e os três casos do dia das segundas-feiras. O Clube dos
+Detetives libera os casos de todos os dias, o arquivo dos dias anteriores e os sete capítulos.</p>
 <h3>Como cancelo a assinatura?</h3>
 <p>No iPhone: <em>Ajustes → seu nome → Assinaturas → Crimenoku</em>. Se cancelar durante o teste
 grátis de 7 dias, nada é cobrado.</p>
